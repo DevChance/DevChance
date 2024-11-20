@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chance! <br/><a href="https://github.com/DevChance">GitHub</a>, <a href="https://www.linkedin.com/in/ChanceSpurlin/">LinkedIn</a>
+<h1>Hi, I'm Chance! <br/><a href="https://github.com/DevChance">GitHub</a>, <a href="https://www.linkedin.com/in/ChanceLSpurlin/">LinkedIn</a>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -16,13 +16,13 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="ChanceSpurlin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ChanceLSpurlin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/ChanceSpurlin
 
 <!--
-**ChanceSpurlin/ChanceSpurlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ChanceLSpurlin/ChanceLSpurlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
