@@ -4,8 +4,7 @@
 - <b>Computer Graphics and Computational Geometry in C++</b>
   - [Bezier and B-Spline Curve Modeling Tool in C++](https://github.com/DevChance/Bezier-and-B-Spline-Curve-Modeling-Tool)
 - <b>Advanced Computational Risk Modeling and Prediction Tool</b>
-  - [Dynamic Risk Modeling Prediction Tool for Rail Crossings](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-
+  - [Dynamic Risk Modeling Prediction Tool for Rail Crossings](https://github.com/DevChance/Risk-Model-Prediction-Tool)
 
 <h2> 📞 Connect with me:</h2>
 
