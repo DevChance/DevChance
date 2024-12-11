@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 **University of California, San Diego (UCSD) graduate** with a strong foundation in mathematics and computer science.
-- 🛡️ **Veteran** with proven leadership skills and extensive experience collaborating with diverse teams worldwide, bringing a global perspective and a mission-driven approach to achieving results.
+- 🛡️ **U.S. Navy Veteran** with proven leadership skills and extensive experience collaborating with diverse teams worldwide, bringing a global perspective and a mission-driven approach to achieving results.
 - 🛠️ Experienced in **C++, Python, and Java** with skills in computational modeling, graphics, and data analysis.
 - 🌟 Passionate about **cryptography, blockchain technologies,** and exploring the fascinating potential of **artificial intelligence (AI)** in solving real-world problems.
 
