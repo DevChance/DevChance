@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chance Spurlin! 👋</h1>
+<h1 align="center">Welcome, My name is Chance Spurlin! 👋</h1>
 <p align="center">
   <a href="https://github.com/DevChance">GitHub</a> | 
   <a href="https://www.linkedin.com/in/ChanceLSpurlin/">LinkedIn</a>
@@ -14,7 +14,7 @@
 
 ---
 
-### 🚀 Software Development Projects
+### 🚀 Projects
 
 - **Computer Graphics and Computational Geometry in C++**
   - 🎨 [Bezier and B-Spline Curve Modeling Tool](https://github.com/DevChance/Bezier-and-B-Spline-Curve-Modeling-Tool): A simple yet robust application for creating and visualizing curves, leveraging advanced computational geometry techniques such as de Casteljau’s algorithm for Bezier curves and B-spline basis functions for smooth, continuous curve construction. This application enables users to dynamically adjust control points, modify knot vectors, and fine-tune curve parameters, offering a hands-on approach to understanding and applying the principles of curve modeling. 
